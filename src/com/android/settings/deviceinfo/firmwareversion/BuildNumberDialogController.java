@@ -38,6 +38,6 @@ public class BuildNumberDialogController {
      */
     public void initialize() {
         mDialog.setText(BUILD_NUMBER_VALUE_ID,
-                BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY));
+                BidiFormatter.getInstance().unicodeWrap(Build.ID));
     }
 }
