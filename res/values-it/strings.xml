@@ -1049,7 +1049,7 @@
     <string name="night_display_summary_on" msgid="1355713529996456744">"On/<xliff:g id="ID_1">%1$s</xliff:g>"</string>
     <string name="night_display_summary_on_auto_mode_never" msgid="9117830821363119835">"Non verrà mai disattivata automaticamente"</string>
     <string name="night_display_summary_on_auto_mode_custom" msgid="5510753572245577263">"Verrà disattivata automaticamente alle ore <xliff:g id="ID_1">%1$s</xliff:g>"</string>
-    <string name="night_display_summary_on_auto_mode_twilight" msgid="852270120144683507">"Verrà disattivata automaticamente al tramonto"</string>
+    <string name="night_display_summary_on_auto_mode_twilight" msgid="852270120144683507">"Verrà disattivata automaticamente all\'alba"</string>
     <string name="screen_timeout" msgid="4351334843529712571">"Sospensione"</string>
     <string name="screen_timeout_title" msgid="5130038655092628247">"Lo schermo si spegne"</string>
     <string name="screen_timeout_summary" msgid="327761329263064327">"Dopo <xliff:g id="TIMEOUT_DESCRIPTION">%1$s</xliff:g> di inattività"</string>
